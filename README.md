@@ -1,3 +1,3 @@
 # html-css practice
 
-free template form internet
+free template from internet
